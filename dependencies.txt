@@ -1,0 +1,9 @@
+pip install flask-mysqldb
+pip install Flask-WTF
+pip install passlib
+pip install keras
+pip install tensorflow
+pip install numpy
+pip install nltk
+pip install mysql-connector-python
+pip install mysql-connector
